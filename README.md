@@ -1,2 +1,1 @@
-# leetcode-solutions
-LeetCode solutions organized by language and problem ID, with approach and complexity notes.
+This repo contains my LeetCode solutions in **C++**, organized by problem ID.
